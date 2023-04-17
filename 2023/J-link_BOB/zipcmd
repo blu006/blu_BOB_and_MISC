@@ -1,0 +1,3 @@
+#! /bin/bash
+
+zip -r J-link_BOB_Fab_Out.zip fab
