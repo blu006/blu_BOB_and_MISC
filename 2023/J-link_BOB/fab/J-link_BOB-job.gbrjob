@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "6.0.11+dfsg-1~bpo11+1"
     },
-    "CreationDate": "2023-04-15T18:18:33-07:00"
+    "CreationDate": "2023-04-27T18:18:44-07:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "J-link_BOB",
       "GUID": "4a2d6c69-6e6b-45f4-924f-422e6b696361",
-      "Revision": "A0"
+      "Revision": "A1"
     },
     "Size": {
       "X": 20.7,
