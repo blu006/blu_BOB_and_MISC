@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "promicrokicad")(type "Legacy")(uri "/home/brandon/Nextcloud/engineering/2023/KiCAD/ProMicroKiCad/promicro_library/promicro.lib")(options "")(descr ""))
+)

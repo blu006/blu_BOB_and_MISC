@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "promicro")(type "KiCad")(uri "/home/brandon/Nextcloud/engineering/2023/KiCAD/ProMicroKiCad/promicro.pretty")(options "")(descr ""))
+)
