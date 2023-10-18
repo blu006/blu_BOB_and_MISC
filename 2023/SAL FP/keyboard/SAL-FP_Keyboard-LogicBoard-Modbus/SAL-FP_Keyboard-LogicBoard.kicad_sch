@@ -1265,6 +1265,10 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid a504f07c-97fa-4109-9995-1b6d535263e0)
   )
+  (text "Current Limiting Resistors Needed!" (at 168.91 77.47 0)
+    (effects (font (size 2.54 2.54)) (justify left bottom))
+    (uuid ee66bdf8-fc42-403a-b46d-2d7d7fc8e16c)
+  )
 
   (label "LED1" (at 229.87 40.64 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))

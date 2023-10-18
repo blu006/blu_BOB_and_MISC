@@ -15,6 +15,9 @@ C_HID_USAGE_PAGE    = 0xFF60
 C_HID_USAGE         = 0x61
 C_HID_REPORT_LENGTH = 32
 
+# time delay constant
+C_DELAY = 0.1
+
 def get_raw_hid_interface():
     device_interfaces = hid.enumerate(C_VENDOR_ID, C_PRODUCT_ID)
     for i in device_interfaces:
@@ -73,7 +76,6 @@ def toggle_led(idx):
 
 def cksum(data):
     s = sum(data[0:2])
-    s &= 0xFF
     s ^= 0xFF
     s += 1
     s &= 0xFF
@@ -88,7 +90,7 @@ def festive_fill_led():
             data ^= 0xFF
             data |= 1 << j;
             output_led(data);
-            time.sleep(1)
+            time.sleep(C_DELAY * 3)
 
 def festive_empty_led():
     fill = 7
@@ -99,7 +101,7 @@ def festive_empty_led():
             data ^= 0xFF
             data |= 1 << j;
             output_led(data);
-            time.sleep(1)
+            time.sleep(C_DELAY * 3)
 
 if __name__ == '__main__':
     global interface
@@ -109,33 +111,33 @@ if __name__ == '__main__':
         print("No device found")
         sys.exit(1)
 
-
-    for i in range(1, (1 << 6)):
-        output_led(i)
-        time.sleep(0.5)
-
-    for i in range(0, 6):
-        reset_led(i)
-        time.sleep(1)
-
-    for i in range(0, 6)[::-1]:
-        set_led(i)
-        time.sleep(1)
-
-    for i in range(0, 6)[::-1]:
-        toggle_led(i)
-        time.sleep(1)
-
-    for i in range(0, 6):
-        output_led(1 << i)
-        time.sleep(1)
-
-    for i in range(0, 6)[::-1]:
-        output_led(1 << i)
-        time.sleep(1)
-
-    festive_fill_led();
-
-    festive_empty_led();
+    while True:
+        for i in range(1, (1 << 6)):
+            output_led(i)
+            time.sleep(C_DELAY)
+    
+        for i in range(0, 6):
+            reset_led(i)
+            time.sleep(C_DELAY * 2)
+    
+        for i in range(0, 6)[::-1]:
+            set_led(i)
+            time.sleep(C_DELAY * 3)
+    
+        for i in range(0, 6)[::-1]:
+            toggle_led(i)
+            time.sleep(C_DELAY * 3)
+    
+        for i in range(0, 6):
+            output_led(1 << i)
+            time.sleep(C_DELAY * 3)
+    
+        for i in range(0, 6)[::-1]:
+            output_led(1 << i)
+            time.sleep(C_DELAY * 3)
+    
+        festive_fill_led();
+    
+        festive_empty_led();
 
     interface.close()
