@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 797.4803 797.48033"
+   width="211mm"
+   height="211mm"
+   version="1.1"
+   id="svg21"
+   sodipodi:docname="left_panel_laser_try0.svg"
+   inkscape:version="1.3.1 (91b66b0, 2023-11-16)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview21"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.71535496"
+     inkscape:cx="795.40932"
+     inkscape:cy="366.9507"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g21" />
+  <desc
+     id="desc1">left_panel_laser_try0.dxf - scale = 1.000000, origin = (0.000000, 0.000000), method = manual</desc>
+  <defs
+     id="defs4">
+    <marker
+       id="DistanceX"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         style="stroke:#000000;stroke-width:0.5"
+         id="path1" />
+    </marker>
+    <pattern
+       id="Hatch"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path2" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path3" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path4" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE" />
+    <symbol
+       id="*PAPER_SPACE" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="0"
+     id="g21"
+     transform="translate(398.74016,-308.0315)">
+    <path
+       d="m -198.04724,1011.0236 a 43.84252,43.84252 0 0 0 -87.68504,0 43.84252,43.84252 0 0 0 87.68504,0 z"
+       style="fill:none;stroke:#ff0000"
+       id="path5" />
+    <path
+       d="m -272.69291,964.72441 a 4.1574805,4.1574805 0 0 0 -8.31496,0 4.1574805,4.1574805 0 0 0 8.31496,0 z"
+       style="fill:none;stroke:#ff0000"
+       id="path6" />
+    <path
+       d="m -202.77165,1057.3228 a 4.15748,4.15748 0 0 0 -8.31496,0 4.15748,4.15748 0 0 0 8.31496,0 z"
+       style="fill:none;stroke:#ff0000"
+       id="path7" />
+    <path
+       d="m -120.18898,668.97638 a 9.448819,9.448819 0 0 0 -18.89763,0 9.448819,9.448819 0 0 0 18.89763,0 z"
+       style="fill:none;stroke:#ff0000"
+       id="path8" />
+    <path
+       d="m -120.18898,366.89764 a 9.448819,9.448819 0 0 0 -18.89763,0 9.448819,9.448819 0 0 0 18.89763,0 z"
+       style="fill:none;stroke:#ff0000"
+       id="path9" />
+    <path
+       d="m -120.18898,971.05512 a 9.448819,9.448819 0 0 0 -18.89763,0 9.448819,9.448819 0 0 0 18.89763,0 z"
+       style="fill:none;stroke:#ff0000"
+       id="path10" />
+    <path
+       d="m 63.307087,411.02362 a 9.448819,9.448819 0 0 0 -18.897638,0 9.448819,9.448819 0 0 0 18.897638,0 z"
+       style="fill:none;stroke:#ff0000"
+       id="path12" />
+    <path
+       d="M 37.795276,610.75397 V 481.52949 a 164.40945,164.40945 0 0 1 86.568864,-86.56886 h 129.22447 a 164.40945,164.40945 0 0 1 86.56887,86.56886 v 129.22448 a 164.40945,164.40945 0 0 1 -86.56887,86.56887 H 124.36414 A 164.40945,164.40945 0 0 1 37.795276,610.75397 Z"
+       style="fill:none;stroke:#ff0000"
+       id="path13" />
+    <path
+       d="m 333.54331,779.52756 a 9.44882,9.44882 0 0 0 -18.89764,0 9.44882,9.44882 0 0 0 18.89764,0 z"
+       style="fill:none;stroke:#ff0000"
+       id="path14" />
+    <path
+       d="m 333.54331,411.02362 a 9.44882,9.44882 0 0 0 -18.89764,0 9.44882,9.44882 0 0 0 18.89764,0 z"
+       style="fill:none;stroke:#ff0000"
+       id="path15" />
+    <path
+       d="m 63.307087,779.52756 a 9.448819,9.448819 0 0 0 -18.897638,0 9.448819,9.448819 0 0 0 18.897638,0 z"
+       style="fill:none;stroke:#ff0000"
+       id="path16" />
+    <path
+       d="m 63.307087,681.25984 a 9.448819,9.448819 0 0 0 -18.897638,0 9.448819,9.448819 0 0 0 18.897638,0 z"
+       style="fill:none;stroke:#ff0000"
+       id="path17" />
+    <path
+       d="m 333.54331,681.25984 a 9.44882,9.44882 0 0 0 -18.89764,0 9.44882,9.44882 0 0 0 18.89764,0 z"
+       style="fill:none;stroke:#ff0000"
+       id="path18" />
+    <path
+       d="m 124.36414,763.46457 a 164.40945,164.40945 0 0 0 -86.568864,86.56886 v 129.22448 a 164.40945,164.40945 0 0 0 86.568864,86.56889 h 129.22447 a 164.40945,164.40945 0 0 0 86.56887,-86.56889 V 850.03343 a 164.40945,164.40945 0 0 0 -86.56887,-86.56886 z"
+       style="fill:none;stroke:#ff0000"
+       id="path19" />
+    <path
+       d="m 63.307087,1049.7638 a 9.448819,9.448819 0 0 0 -18.897638,0 9.448819,9.448819 0 0 0 18.897638,0 z"
+       style="fill:none;stroke:#ff0000"
+       id="path20" />
+    <path
+       d="m 333.54331,1049.7638 a 9.44882,9.44882 0 0 0 -18.89764,0 9.44882,9.44882 0 0 0 18.89764,0 z"
+       style="fill:none;stroke:#ff0000"
+       id="path21" />
+  </g>
+</svg>

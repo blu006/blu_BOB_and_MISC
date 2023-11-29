@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="77.75mm"
+   height="27.5mm"
+   viewBox="0 0 77.75 27.5"
+   version="1.1"
+   id="svg2602"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="sal_plate.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2604"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.603726"
+     inkscape:cx="113.48572"
+     inkscape:cy="180.8289"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2599" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2752"
+       transform="translate(0.12505722,-1.450418)">
+      <rect
+         style="fill:#000000;stroke:none;stroke-width:0.26507"
+         id="rect2111"
+         width="67.749886"
+         height="17.499771"
+         x="4.875"
+         y="6.4505897" />
+      <rect
+         style="fill:#ff0000;stroke:none;stroke-width:0.264498"
+         id="rect2223"
+         width="34"
+         height="17.488825"
+         x="4.875"
+         y="6.4504752" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Noto Sans Extra Condensed';-inkscape-font-specification:'Noto Sans Extra Condensed, ';fill:#000000;stroke:none;stroke-width:0.269225"
+         x="42.565876"
+         y="19.22249"
+         id="text2417"
+         transform="scale(0.98275762,1.0175449)"><tspan
+           sodipodi:role="line"
+           id="tspan2415"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Noto Sans Extra Condensed';-inkscape-font-specification:'Noto Sans Extra Condensed, ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.269225"
+           x="42.565876"
+           y="19.22249">SAL   9000</tspan></text>
+    </g>
+  </g>
+</svg>
