@@ -2,6 +2,11 @@
 
 # this test code is adapted from the QMK documentation under feature_rawhid.
 
+# note that installing QMK on the host system also installs a new version of
+# the python HID library.
+# At the time that this paragrah is written, the hid library within the debian
+# repository is too old for this code to work correctly.
+
 import sys
 import hid
 import time
