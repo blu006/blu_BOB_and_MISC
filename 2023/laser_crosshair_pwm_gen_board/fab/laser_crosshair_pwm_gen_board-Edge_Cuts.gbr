@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.7*%
+%TF.CreationDate,2023-12-16T19:35:10-08:00*%
+%TF.ProjectId,laser_crosshair_pwm_gen_board,6c617365-725f-4637-926f-737368616972,rev?*%
+%TF.SameCoordinates,PX791ddc0PY6d01460*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.7) date 2023-12-16 19:35:10*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.100000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X0Y0D02*
+X15240000Y0D01*
+X15240000Y-13970000D01*
+X0Y-13970000D01*
+X0Y0D01*
+M02*
