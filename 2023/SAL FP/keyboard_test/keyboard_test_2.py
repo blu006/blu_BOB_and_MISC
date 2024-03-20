@@ -7,6 +7,12 @@
 # At the time that this paragrah is written, the hid library within the debian
 # repository is too old for this code to work correctly.
 
+# note that multiple libraries try to provide the library 'hid'.
+# the correct library to use is the 'hid' package found in pip.
+# that is https://github.com/apmorton/pyhidapi and not the cython
+# library hidapi
+# or the library pyhidapi for that matter.
+
 import sys
 import hid
 import time
