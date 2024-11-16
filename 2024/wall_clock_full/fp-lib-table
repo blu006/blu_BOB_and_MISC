@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "wall_clock_full")(type "KiCad")(uri "${KIPRJMOD}/wall_clock_full.pretty")(options "")(descr ""))
+)
