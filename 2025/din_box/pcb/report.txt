@@ -1,0 +1,12 @@
+Info: Output directory '/home/brandon/Nextcloud/engineering/blu_BOB_and_MISC/2025/din_box/pcb/hmi_front_fabout' created.
+Plotted to '/home/brandon/Nextcloud/engineering/blu_BOB_and_MISC/2025/din_box/pcb/hmi_front_fabout/pcb-F_Cu.gbr'.
+Plotted to '/home/brandon/Nextcloud/engineering/blu_BOB_and_MISC/2025/din_box/pcb/hmi_front_fabout/pcb-B_Cu.gbr'.
+Plotted to '/home/brandon/Nextcloud/engineering/blu_BOB_and_MISC/2025/din_box/pcb/hmi_front_fabout/pcb-F_Paste.gbr'.
+Plotted to '/home/brandon/Nextcloud/engineering/blu_BOB_and_MISC/2025/din_box/pcb/hmi_front_fabout/pcb-B_Paste.gbr'.
+Plotted to '/home/brandon/Nextcloud/engineering/blu_BOB_and_MISC/2025/din_box/pcb/hmi_front_fabout/pcb-F_Silkscreen.gbr'.
+Plotted to '/home/brandon/Nextcloud/engineering/blu_BOB_and_MISC/2025/din_box/pcb/hmi_front_fabout/pcb-B_Silkscreen.gbr'.
+Plotted to '/home/brandon/Nextcloud/engineering/blu_BOB_and_MISC/2025/din_box/pcb/hmi_front_fabout/pcb-F_Mask.gbr'.
+Plotted to '/home/brandon/Nextcloud/engineering/blu_BOB_and_MISC/2025/din_box/pcb/hmi_front_fabout/pcb-B_Mask.gbr'.
+Plotted to '/home/brandon/Nextcloud/engineering/blu_BOB_and_MISC/2025/din_box/pcb/hmi_front_fabout/pcb-Edge_Cuts.gbr'.
+Created Gerber job file '/home/brandon/Nextcloud/engineering/blu_BOB_and_MISC/2025/din_box/pcb/hmi_front_fabout/pcb-job.gbrjob'.
+Info: Done.

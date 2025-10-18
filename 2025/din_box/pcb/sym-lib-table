@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "This")(type "KiCad")(uri "${KIPRJMOD}/This.kicad_sym")(options "")(descr "Library for this board in particular"))
+)
