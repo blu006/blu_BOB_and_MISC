@@ -1,0 +1,22 @@
+Plotted to '/home/brandon/Nextcloud/engineering/blu_BOB_and_MISC/2025/din_box/bottom/front/bottom-F_Cu.gbr'.
+Plotted to '/home/brandon/Nextcloud/engineering/blu_BOB_and_MISC/2025/din_box/bottom/front/bottom-B_Cu.gbr'.
+Plotted to '/home/brandon/Nextcloud/engineering/blu_BOB_and_MISC/2025/din_box/bottom/front/bottom-F_Paste.gbr'.
+Plotted to '/home/brandon/Nextcloud/engineering/blu_BOB_and_MISC/2025/din_box/bottom/front/bottom-B_Paste.gbr'.
+Plotted to '/home/brandon/Nextcloud/engineering/blu_BOB_and_MISC/2025/din_box/bottom/front/bottom-F_Silkscreen.gbr'.
+Plotted to '/home/brandon/Nextcloud/engineering/blu_BOB_and_MISC/2025/din_box/bottom/front/bottom-B_Silkscreen.gbr'.
+Plotted to '/home/brandon/Nextcloud/engineering/blu_BOB_and_MISC/2025/din_box/bottom/front/bottom-F_Mask.gbr'.
+Plotted to '/home/brandon/Nextcloud/engineering/blu_BOB_and_MISC/2025/din_box/bottom/front/bottom-B_Mask.gbr'.
+Plotted to '/home/brandon/Nextcloud/engineering/blu_BOB_and_MISC/2025/din_box/bottom/front/bottom-Edge_Cuts.gbr'.
+Created Gerber job file '/home/brandon/Nextcloud/engineering/blu_BOB_and_MISC/2025/din_box/bottom/front/bottom-job.gbrjob'.
+Plotted to '/home/brandon/Nextcloud/engineering/blu_BOB_and_MISC/2025/din_box/bottom/hmi_bottom_board_fabout/bottom-F_Cu.gbr'.
+Plotted to '/home/brandon/Nextcloud/engineering/blu_BOB_and_MISC/2025/din_box/bottom/hmi_bottom_board_fabout/bottom-B_Cu.gbr'.
+Plotted to '/home/brandon/Nextcloud/engineering/blu_BOB_and_MISC/2025/din_box/bottom/hmi_bottom_board_fabout/bottom-F_Paste.gbr'.
+Plotted to '/home/brandon/Nextcloud/engineering/blu_BOB_and_MISC/2025/din_box/bottom/hmi_bottom_board_fabout/bottom-B_Paste.gbr'.
+Plotted to '/home/brandon/Nextcloud/engineering/blu_BOB_and_MISC/2025/din_box/bottom/hmi_bottom_board_fabout/bottom-F_Silkscreen.gbr'.
+Plotted to '/home/brandon/Nextcloud/engineering/blu_BOB_and_MISC/2025/din_box/bottom/hmi_bottom_board_fabout/bottom-B_Silkscreen.gbr'.
+Plotted to '/home/brandon/Nextcloud/engineering/blu_BOB_and_MISC/2025/din_box/bottom/hmi_bottom_board_fabout/bottom-F_Mask.gbr'.
+Plotted to '/home/brandon/Nextcloud/engineering/blu_BOB_and_MISC/2025/din_box/bottom/hmi_bottom_board_fabout/bottom-B_Mask.gbr'.
+Plotted to '/home/brandon/Nextcloud/engineering/blu_BOB_and_MISC/2025/din_box/bottom/hmi_bottom_board_fabout/bottom-Edge_Cuts.gbr'.
+Created Gerber job file '/home/brandon/Nextcloud/engineering/blu_BOB_and_MISC/2025/din_box/bottom/hmi_bottom_board_fabout/bottom-job.gbrjob'.
+Info: Done.
+Info: Done.
