@@ -6,8 +6,8 @@
 	(paper "A")
 	(title_block
 		(title "USB-C to RS485 Converter")
-		(date "2025-11-24")
-		(rev "A")
+		(date "2025-12-10")
+		(rev "A1")
 		(company "Brandon Kirisaki")
 	)
 	(lib_symbols
@@ -2341,6 +2341,17 @@
 			)
 			(embedded_fonts no)
 		)
+	)
+	(text "A-\nB+\nC"
+		(exclude_from_sim no)
+		(at 260.858 101.6 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left)
+		)
+		(uuid "aa9ced4b-642d-4027-ba44-235dd992ef63")
 	)
 	(junction
 		(at 241.3 96.52)
