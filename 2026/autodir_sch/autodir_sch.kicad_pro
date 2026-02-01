@@ -520,7 +520,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "sheet_out/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",

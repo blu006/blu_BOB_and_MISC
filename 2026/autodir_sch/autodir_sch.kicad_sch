@@ -6,8 +6,8 @@
 	(paper "A")
 	(title_block
 		(title "RS485 Autodir")
-		(date "2026-01-30")
-		(rev "A0")
+		(date "2026-02-01")
+		(rev "A1")
 		(company "MAG Laboratory")
 	)
 	(lib_symbols
@@ -1889,6 +1889,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "B A C"
+		(exclude_from_sim no)
+		(at 199.39 93.218 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "07dc5bbc-7c6b-497b-8e2f-52533944f25f")
+	)
 	(junction
 		(at 182.88 74.93)
 		(diameter 0)
@@ -2451,6 +2461,26 @@
 		)
 		(uuid "785fc571-5bdf-43c2-870f-d9e77fefe94e")
 	)
+	(label "A"
+		(at 194.31 74.93 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "da15e7cf-48a9-4e0b-9dcc-e6bb72f57a7e")
+	)
+	(label "B"
+		(at 194.31 80.01 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ff43d1ec-e2db-4869-af73-517d1cc35c3d")
+	)
 	(symbol
 		(lib_id "Interface_UART:ST485E")
 		(at 168.91 82.55 0)
@@ -2567,7 +2597,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 138.43 96.52 0)
 			(effects
 				(font
@@ -2967,7 +2997,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 129.54 96.52 0)
 			(effects
 				(font
@@ -3934,7 +3964,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 147.32 96.52 0)
 			(effects
 				(font
