@@ -51,41 +51,14 @@
           "min_clearance": 0.5
         }
       },
-      "diff_pair_dimensions": [],
-      "drc_exclusions": [
-        [
-          "silk_edge_clearance|18500000|14644819|ee21760f-4695-4d20-a72c-cb44da32f18f|421cc1f7-aea4-44e7-8c9b-a9a8ca5ae86b",
-          ""
-        ],
-        [
-          "silk_edge_clearance|18500000|16030000|ee21760f-4695-4d20-a72c-cb44da32f18f|853a8c35-fdf3-44b7-952c-4644d782e689",
-          ""
-        ],
-        [
-          "silk_edge_clearance|18500000|18570000|ee21760f-4695-4d20-a72c-cb44da32f18f|451b5b1c-b4f3-4b21-b4a4-9d1087c5ff11",
-          ""
-        ],
-        [
-          "silk_edge_clearance|18500000|19430000|ee21760f-4695-4d20-a72c-cb44da32f18f|f24a7f1a-792d-4e4c-874b-5a288d6c7f26",
-          ""
-        ],
-        [
-          "silk_edge_clearance|18500000|21110000|ee21760f-4695-4d20-a72c-cb44da32f18f|1892aa4a-6217-4229-87cb-8bb5aba6d53a",
-          ""
-        ],
-        [
-          "silk_edge_clearance|18500000|21970000|ee21760f-4695-4d20-a72c-cb44da32f18f|ab4daba3-064e-46d8-abd4-b458588c48ec",
-          ""
-        ],
-        [
-          "silk_edge_clearance|18500000|23650000|ee21760f-4695-4d20-a72c-cb44da32f18f|3e172d6b-075d-4070-8815-8a66456e97e7",
-          ""
-        ],
-        [
-          "silk_edge_clearance|18500000|24510000|ee21760f-4695-4d20-a72c-cb44da32f18f|68888b1a-c2de-4520-a27e-a76d35fb05cc",
-          ""
-        ]
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
       ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -213,7 +186,10 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [],
+      "track_widths": [
+        0.0,
+        0.5
+      ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
           "corner_radius_percentage": 80,
@@ -240,8 +216,13 @@
           "spacing": 0.6
         }
       },
-      "via_dimensions": [],
-      "zones_allow_external_fillets": true
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        }
+      ],
+      "zones_allow_external_fillets": false
     },
     "ipc2581": {
       "dist": "",
@@ -484,7 +465,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "autodir_sch.kicad_pro",
+    "filename": "inverter_board.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -520,7 +501,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "autodir_sch_rA1/",
+      "plot": "inverter_board_rA0/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -631,7 +612,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "sheet_out",
+    "plot_directory": "",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
@@ -644,7 +625,7 @@
   },
   "sheets": [
     [
-      "886d1872-ccf1-4d0d-8451-b4e92f03d150",
+      "fe27472c-815c-4713-a322-909f1deb1ab1",
       "Root"
     ]
   ],
